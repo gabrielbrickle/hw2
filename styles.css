@@ -76,6 +76,8 @@ a {
   height: 28px;
   border: none;
   display: inline-block;
+  position: relative;
+  top: -4px;
 }
 
 .authors {
