@@ -136,3 +136,43 @@ right: -8px;
       left: 357px;
       top: -10px;
 }
+
+
+/*NEWEST CODE FOR ADVENTURE CHALLENGE 
+
+
+li.octocat2 > a > img {
+  border: solid #cacaca 1px;
+    width: 95%;
+    height: 351px;
+    border-radius: 3px;
+  }
+
+  li.octocat3 > a > img {
+    border: solid #cacaca 1px;
+  width: 95%;
+  height: 351px;
+  border-radius: 3px;
+  position: relative;
+  left: 393px;
+  top: -417px;
+    }
+
+
+    li.octocat4 > a > img {
+      border: solid #cacaca 1px;
+      width: 95%;
+      position: relative;
+left: 799px;
+top: -832px;
+width: 368px;
+height: 351px;
+      }
+
+  .octocat2 img {
+    display: inline-block;
+    width: 100%;
+    border-radius: 3px;
+    border: 1px solid #cacaca;
+}
+*/
